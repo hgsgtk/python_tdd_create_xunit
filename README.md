@@ -9,7 +9,8 @@
 
 - [x]Call test method
 - [x]Call setUp() first
-- [ ]Call tearDown() later
+- [x]Call tearDown() later
 - [ ]Call tearDown() even if test method is failed
 - [ ]Run multiple test
 - [ ]Output a result of test which is collected
+- [x]Record string to log by WasRun 
