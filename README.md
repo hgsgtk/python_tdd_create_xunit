@@ -8,7 +8,7 @@
 著書中の開発時のToDoリストです。章ごとに打っているタグごとに進捗が変化します。
 
 - [x]Call test method
-- [ ]Call setUp() first
+- [x]Call setUp() first
 - [ ]Call tearDown() later
 - [ ]Call tearDown() even if test method is failed
 - [ ]Run multiple test
