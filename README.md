@@ -7,7 +7,7 @@
 # Development todo
 著書中の開発時のToDoリストです。章ごとに打っているタグごとに進捗が変化します。
 
-- [ ]Call test method
+- [x]Call test method
 - [ ]Call setUp() first
 - [ ]Call tearDown() later
 - [ ]Call tearDown() even if test method is failed
