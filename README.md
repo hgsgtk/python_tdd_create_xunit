@@ -14,3 +14,5 @@
 - [ ]Run multiple test
 - [x]Output a result of test which is collected
 - [x]Record string to log by WasRun 
+- [x]Output failed test
+- [ ]Catch setUp() error and Output error
