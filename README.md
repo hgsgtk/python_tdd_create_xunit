@@ -11,8 +11,9 @@
 - [x]Call setUp() first
 - [x]Call tearDown() later
 - [ ]Call tearDown() even if test method is failed
-- [ ]Run multiple test
+- [x]Run multiple test
 - [x]Output a result of test which is collected
 - [x]Record string to log by WasRun 
 - [x]Output failed test
 - [ ]Catch setUp() error and Output error
+- [ ]Create TestSuite by TestCase class
